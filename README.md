@@ -1,10 +1,10 @@
-ola
-meu nome é ektor adriano
+ola meu nome é ektor adriano😎
+✌ sou estudante do ensino médio
 <!--
 **ektorwagnitz/ektorwagnitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Aqui estão algumas ideias para você começar:
+✌
 - 🔭 trabalho de ajudante de pedreiro
 - 🌱 como  faser jogos pelo computador
 - 👯 ajudar  pessoas
