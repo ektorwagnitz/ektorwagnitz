@@ -15,3 +15,6 @@ Aqui estão algumas ideias para você começar:
 - ⚡ Fun fact: ...tenho 17 anos 
 -  gosto de jogar bola
   sou estudante do periodo 
+estou aprendendo:
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
